@@ -1,0 +1,17 @@
+C:\Git\Teste de C# da Ailos\Questao2\bin\Debug\net6.0\Questao2.exe
+C:\Git\Teste de C# da Ailos\Questao2\bin\Debug\net6.0\Questao2.deps.json
+C:\Git\Teste de C# da Ailos\Questao2\bin\Debug\net6.0\Questao2.runtimeconfig.json
+C:\Git\Teste de C# da Ailos\Questao2\bin\Debug\net6.0\Questao2.dll
+C:\Git\Teste de C# da Ailos\Questao2\bin\Debug\net6.0\Questao2.pdb
+C:\Git\Teste de C# da Ailos\Questao2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Git\Teste de C# da Ailos\Questao2\obj\Debug\net6.0\Questao2.csproj.AssemblyReference.cache
+C:\Git\Teste de C# da Ailos\Questao2\obj\Debug\net6.0\Questao2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Teste de C# da Ailos\Questao2\obj\Debug\net6.0\Questao2.AssemblyInfoInputs.cache
+C:\Git\Teste de C# da Ailos\Questao2\obj\Debug\net6.0\Questao2.AssemblyInfo.cs
+C:\Git\Teste de C# da Ailos\Questao2\obj\Debug\net6.0\Questao2.csproj.CoreCompileInputs.cache
+C:\Git\Teste de C# da Ailos\Questao2\obj\Debug\net6.0\Questao2.csproj.Up2Date
+C:\Git\Teste de C# da Ailos\Questao2\obj\Debug\net6.0\Questao2.dll
+C:\Git\Teste de C# da Ailos\Questao2\obj\Debug\net6.0\refint\Questao2.dll
+C:\Git\Teste de C# da Ailos\Questao2\obj\Debug\net6.0\Questao2.pdb
+C:\Git\Teste de C# da Ailos\Questao2\obj\Debug\net6.0\Questao2.genruntimeconfig.cache
+C:\Git\Teste de C# da Ailos\Questao2\obj\Debug\net6.0\ref\Questao2.dll
